@@ -43,7 +43,7 @@ understandable.
 * <https://github.com/szerhusenBC>
 
 ** Modifier **
-* <https://twitter.com/shaymshyre>
+* <https://twitter.com/shyamshyre>
 * <https://github.com/shyamshyre/Spring-Security>
 
 
