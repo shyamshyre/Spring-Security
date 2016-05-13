@@ -5,6 +5,8 @@
 ##About
 This is just a simple demo for using **JWT (JSON Web Token)** with **Spring Security** and
 **Spring Boot**. This solution is partially based on the blog entry
+Solution is updated to Mysql database instead of H2 Database.-- shyam
+
 [REST Security with JWT using Java and Spring Security](https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java)
 and the demo project [Cerberus](https://github.com/brahalla/Cerberus). Thanks to the authors!
 
@@ -39,6 +41,13 @@ understandable.
 
 * <https://twitter.com/stzerhus>
 * <https://github.com/szerhusenBC>
+
+** Modifier **
+* <https://twitter.com/shaymshyre>
+* <https://github.com/shyamshyre/Spring-Security>
+
+
+
 
 ##Copyright and license
 
